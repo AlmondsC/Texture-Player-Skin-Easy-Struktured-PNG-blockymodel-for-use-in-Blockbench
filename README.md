@@ -9,4 +9,5 @@ I changed the UV positions in the "ORIGINAL Hytale Folder .blockymodel" accordin
 
 Additional Info!
 This blockymodel file has already included the original anchor points for the attachments you can add. If you want to change the height of the eye position, this "blockymodel" has the anchor point that you need to move accordingly. Don't forget, in that case, to change the position of the eyes on your PNG as well.
+
 Have fun <3
